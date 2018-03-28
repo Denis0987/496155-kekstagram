@@ -1,7 +1,7 @@
-# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Неопознанный Сурикат](https://up.htmlacademy.ru/javascript/13/user/496155).
-* Наставник: `Неизвестно`.
+* Наставник: `Никита Ткачук`.
 
 ---
 
